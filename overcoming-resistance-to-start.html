@@ -46,10 +46,15 @@
     }
   </style>
 
-  
+
+
+
+  <!-- Matomo -->
   <script type="text/javascript">
     var _paq = _paq || [];
     /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+    _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+    _paq.push(["setDomains", ["*."]]);
     _paq.push(['trackPageView']);
     _paq.push(['enableLinkTracking']);
     (function() {
@@ -60,6 +65,10 @@
       g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
     })();
   </script>
+  <noscript><p><img src="//matomo.iruka-labs.de/piwik.php?idsite=2&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+  <!-- End Matomo Code -->
+
+
 
 </head>
 <body><header class="site-header" role="banner">
@@ -159,26 +168,7 @@
   </div>
 
 </footer>
-<img src="https://polar-mountain-27077.herokuapp.com/z9L4UM4SGoTtDu3n.png"/>
-    <img src="https://matomo.iruka-labs.de/piwik.php?idsite=2&rec=1" style="border:0" alt="" />
-
-
-
-    <script type="text/javascript">
-      var _paq = _paq || [];
-      /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-      _paq.push(['trackPageView']);
-      _paq.push(['enableLinkTracking']);
-      (function() {
-        var u="//matomo.iruka-labs.de/";
-        _paq.push(['setTrackerUrl', u+'piwik.php']);
-        _paq.push(['setSiteId', '2']);
-        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-      })();
-    </script>
-
-
+<img src="https://polar-mountain-27077.herokuapp.com/z9L4UM4SGoTtDu3n.png"/>    
 
   </body>
 
