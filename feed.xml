@@ -1,4 +1,51 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://blog.happy-and-productive.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.happy-and-productive.com/" rel="alternate" type="text/html" /><updated>2018-06-19T08:18:12-05:00</updated><id>http://blog.happy-and-productive.com/</id><title type="html">Happy &amp;amp; Productive</title><subtitle>This the personal blog of Sebastian Apel. I write about stuff that interests me. Currently that is being happy &amp; productive.</subtitle><entry><title type="html">How to Overcome Procrastination: Great Tips from a book by Neil Fiore</title><link href="http://blog.happy-and-productive.com/en/how-to-overcome-procrastination.html" rel="alternate" type="text/html" title="How to Overcome Procrastination: Great Tips from a book by Neil Fiore" /><published>2018-06-19T06:30:39-05:00</published><updated>2018-06-19T06:30:39-05:00</updated><id>http://blog.happy-and-productive.com/en/overcoming-procrastination</id><content type="html" xml:base="http://blog.happy-and-productive.com/en/how-to-overcome-procrastination.html">&lt;p&gt;A question that I have read a lot is “How can I get disciplined and start doing what I have planned?”. I’ve read this in the context of studying, but also in the context of entrepreneurs who start out with a new idea.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://blog.happy-and-productive.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.happy-and-productive.com/" rel="alternate" type="text/html" /><updated>2018-06-22T09:45:33-05:00</updated><id>http://blog.happy-and-productive.com/</id><title type="html">Happy &amp;amp; Productive</title><subtitle>This the personal blog of Sebastian Apel. I write about stuff that interests me. Currently that is being happy &amp; productive.</subtitle><entry><title type="html">Not getting enough sleep hurts your mental performance</title><link href="http://blog.happy-and-productive.com/en/sleep-and-mental-performance.html" rel="alternate" type="text/html" title="Not getting enough sleep hurts your mental performance" /><published>2018-06-22T06:30:39-05:00</published><updated>2018-06-22T06:30:39-05:00</updated><id>http://blog.happy-and-productive.com/en/sleep-and-mental-performance</id><content type="html" xml:base="http://blog.happy-and-productive.com/en/sleep-and-mental-performance.html">&lt;p&gt;This is going to be one of several articles in which I am going to explore
+what science has to say about &lt;a href=&quot;en/exploring-sleep-and-performance.html&quot;&gt;“Sleep and Human Performance”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In each article, we are going to explore one scientific study that sheds light
+on the subject.&lt;/p&gt;
+
+&lt;p&gt;The first question I have asked myself is “How does lack sleep affect mental
+performance?”.&lt;/p&gt;
+
+&lt;p&gt;Researchers from the University of Turku have written a nice summary on
+“Sleep deprivation: Impact on cognitive performance” [1]. One of the studies
+they cite was done by the US Military in the Walter Reed Army
+Institute of Research [2].&lt;/p&gt;
+
+&lt;p&gt;TL;DR:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Sleeping less than 8 hours reduced the mental performance of the participants&lt;/li&gt;
+  &lt;li&gt;Even a small reduction to 7 hours of sleep per night already hurt the cognitive performance&lt;/li&gt;
+  &lt;li&gt;It was even worse when participants slept 5 hours or 3 hours per night&lt;/li&gt;
+  &lt;li&gt;After 7 days of less than 8 hours of sleep, even 3 days of recovery
+(8 hrs in bed) was &lt;em&gt;not enough&lt;/em&gt; to bring back the performance
+to the level of the people who were not sleep restricted&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Long version:&lt;/p&gt;
+
+&lt;p&gt;In 2003, researchers of the Walter Reed Army Institute of Research have studied how sleeping less impacts cognitive function. As one measure for “cognitive function” they used the “Psychomotor vigilance task” where you need to press a button as soon as a light shows up on a screen.&lt;/p&gt;
+
+&lt;p&gt;They established a baseline by having people stay in bed for 8 hrs for 3 days, and then restricting sleep for 7 days, followed by a 3 day recovery period with again 8 hours sleep.&lt;/p&gt;
+
+&lt;p&gt;During the sleep restriction period, they had 4 groups with different amounts of time in bed: 9 hours, 7 hours, 5 hours, 3 hours.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The first group that had 9 hours sleep per night: Their performance did not change over the next 7 days.&lt;/li&gt;
+  &lt;li&gt;For all other groups, the performance got worse and over the 7 days of sleep restriction.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;During the recovery peroid, only the group that had had 3 hours of sleep “improved” again. But: They were still performing worse then the 5 hour group.&lt;/p&gt;
+
+&lt;h4 id=&quot;references&quot;&gt;References&lt;br /&gt;&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;Paula Alhola and Päivi Polo-Kantola (2007), Sleep deprivation: Impact on cognitive performance, Journal of Neuropsychiatric Disease and Treatment, pp 553–567, retrieved from  &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2656292/&quot;&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2656292&lt;/a&gt; &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Gregory Belenky, Nancy J. Wesensten, David R. Thorne, Maria L. Thomas,
+Helen C. Sing, Daniel P. Redmond, Michael B. Russo, Thomas J. Balkin (2003),
+Patterns of performance degradation and restoration during sleep
+restriction and subsequent recovery: a sleep dose‐response study, Journal of
+Sleep Research, retrieved from &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-2869.2003.00337.x&quot;&gt;https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-2869.2003.00337.x&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Honestly, the fact that your mental performance suffers when you do not get enough sleep is not surprising. What was surprising to me was the fact that this effect is already measurable after 7 hours of sleep.</summary></entry><entry><title type="html">How to Overcome Procrastination: Great Tips from a book by Neil Fiore</title><link href="http://blog.happy-and-productive.com/en/how-to-overcome-procrastination.html" rel="alternate" type="text/html" title="How to Overcome Procrastination: Great Tips from a book by Neil Fiore" /><published>2018-06-19T06:30:39-05:00</published><updated>2018-06-19T06:30:39-05:00</updated><id>http://blog.happy-and-productive.com/en/overcoming-procrastination</id><content type="html" xml:base="http://blog.happy-and-productive.com/en/how-to-overcome-procrastination.html">&lt;p&gt;A question that I have read a lot is “How can I get disciplined and start doing what I have planned?”. I’ve read this in the context of studying, but also in the context of entrepreneurs who start out with a new idea.&lt;/p&gt;
 
 &lt;p&gt;In this article, I will summarize Neil Fiore’s book “Overcoming Procrastination: Practice the Now Habit and Guilt-Free Play”. This book is very similar to &lt;a href=&quot;http://www.amazon.de/dp/1585425524?ref=nosim&amp;amp;tag=471108152102-21&quot;&gt;his newer book “The Now Habit”&lt;/a&gt;, which might be easier to obtain.&lt;/p&gt;
 
@@ -281,8 +328,4 @@ dann sage ich zu mir selbst: Heute wird ein toller Tag.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;This is why I will keep the bar at 100 words for now. And maybe raise the bar when I get to the point where I think “100 words is too boring”.&lt;/p&gt;
 
-&lt;p&gt;I’d be interested if you have made a similar experience. Let me know!&lt;/p&gt;</content><author><name></name></author><summary type="html">In the last post, I was talking about making it easy to start: By making it so simple you cannot fail — and giving yourself permission to suck because it is highly likely that you will do so in the beginning. For me, the bar is currently: Publish 100 words every day.</summary></entry><entry><title type="html">100 words on … overcoming resistance to start publishing</title><link href="http://blog.happy-and-productive.com/overcoming-resistance-to-start" rel="alternate" type="text/html" title="100 words on … overcoming resistance to start publishing" /><published>2018-05-23T03:42:39-05:00</published><updated>2018-05-23T03:42:39-05:00</updated><id>http://blog.happy-and-productive.com/100-words-on-overcoming-resistance</id><content type="html" xml:base="http://blog.happy-and-productive.com/overcoming-resistance-to-start">&lt;p&gt;I have been struggling with my objective to start publishing content on the Internet now for a while. I’ve tried a lot of things: Setting up habits to write every morning, reading a lot on how to do things. But in the end, I have not been able to establish something regular, much less publish ANYTHING.&lt;/p&gt;
-
-&lt;p&gt;Yesterday, I have listened to a &lt;a href=&quot;http://bit.ly/il-2a1UYb0&quot;&gt;podcast with BJ Fogg and David Kadavy&lt;/a&gt;: They were talking about how to make it &lt;strong&gt;simple enough&lt;/strong&gt; to just do it. And David said that he gave himself &lt;strong&gt;permission to suck&lt;/strong&gt;. So, I am resetting my bar to just publish 100 words for now. Without any wanting it to be great, awesome, new, innovative, value-adding. Just starting.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Because it is the only way to learn and get better.&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">I have been struggling with my objective to start publishing content on the Internet now for a while. I’ve tried a lot of things: Setting up habits to write every morning, reading a lot on how to do things. But in the end, I have not been able to establish something regular, much less publish ANYTHING.</summary></entry></feed>
+&lt;p&gt;I’d be interested if you have made a similar experience. Let me know!&lt;/p&gt;</content><author><name></name></author><summary type="html">In the last post, I was talking about making it easy to start: By making it so simple you cannot fail — and giving yourself permission to suck because it is highly likely that you will do so in the beginning. For me, the bar is currently: Publish 100 words every day.</summary></entry></feed>
