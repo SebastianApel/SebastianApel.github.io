@@ -309,7 +309,7 @@ table {
  */
 .page-content {
   padding: 30px 0;
-  flex: 1; }
+  flex: 1 0 auto; }
 
 .page-heading {
   font-size: 32px; }
@@ -337,12 +337,14 @@ table {
 .post-header {
   margin-bottom: 30px; }
 
-.post-title {
+.post-title,
+.post-content h1 {
   font-size: 42px;
   letter-spacing: -1px;
   line-height: 1; }
   @media screen and (max-width: 800px) {
-    .post-title {
+    .post-title,
+    .post-content h1 {
       font-size: 36px; } }
 
 .post-content {
@@ -503,3 +505,37 @@ table {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+#comments {
+  background-color: #e8e8e8; }
+  #comments h3 {
+    padding-left: 8px; }
+  #comments ol {
+    list-style-type: none; }
+  #comments li {
+    padding: 8px;
+    clear: both;
+    min-height: 60px;
+    font-size: 15px;
+    line-height: 21px;
+    margin-top: 8px; }
+  #comments a {
+    float: left; }
+  #comments blockquote {
+    float: left; }
+  #comments label {
+    display: inline-block; }
+  #comments form {
+    border: none; }
+  #comments fieldset {
+    border: none; }
+  #comments textarea {
+    border: 1px solid #caced3;
+    width: 100%;
+    transition: all .15s ease-in-out;
+    overflow: auto;
+    word-wrap: break-word;
+    color: #2a2e2e;
+    cursor: text;
+    display: block;
+    min-height: 100px; }
