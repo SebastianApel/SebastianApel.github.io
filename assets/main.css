@@ -6307,6 +6307,9 @@ label.panel-block {
   background-color: #000;
   opacity: 0.7; }
 
+section {
+  position: relative; }
+
 .m-none {
   margin: 0; }
 
