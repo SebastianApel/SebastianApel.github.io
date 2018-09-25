@@ -132,7 +132,7 @@
     minHeight: 0,
     elements: [],
     percentage: true,
-    userTiming: true,
+    userTiming: false,
     //userTiming: true,
     //pixelDepth: true,
     pixelDepth: false,
