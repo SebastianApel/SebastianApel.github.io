@@ -206,8 +206,8 @@
     } else if (typeof dataLayer !== "undefined" && typeof dataLayer.push === "function" && !options.gtmOverride) {
 
       standardEventHandler = function(data) {
-        console.log("Handling!");
-        console.log(data);
+        //console.log("Handling!");
+        //console.log(data);
         if (typeof _paq === "object") {
           //_paq.push(data);
           var value = data.eventValue;
