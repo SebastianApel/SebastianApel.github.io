@@ -133,7 +133,9 @@
     elements: [],
     percentage: true,
     userTiming: true,
-    pixelDepth: true,
+    //userTiming: true,
+    //pixelDepth: true,
+    pixelDepth: false,
     nonInteraction: true,
     gaGlobal: false,
     gtmOverride: false
@@ -215,7 +217,7 @@
             value = data.eventTiming;
           }
 
-          _paq.push(['trackEvent', data.event, data.eventAction, data.eventLabel, value]);
+          _paq.push(['trackEvent', data.event, data.eventAction + data.eventLabel, data.eventLabel, value]);
         }
       };
     }
