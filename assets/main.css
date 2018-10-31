@@ -6268,48 +6268,6 @@ label.panel-block {
   background-color: #fafafa;
   padding: 3rem 1.5rem 6rem; }
 
-.footer img {
-  max-height: 1.75rem; }
-
-.eventdetails li {
-  margin-bottom: 24px;
-  list-style: none; }
-
-.event {
-  background: #242424 !important; }
-  .event.footer {
-    padding: 1rem 1.5rem 1rem !important; }
-
-.get-tickets {
-  width: 329px; }
-
-.get-tickets-mobile {
-  bottom: 0;
-  left: 0;
-  position: fixed;
-  right: 0;
-  z-index: 100;
-  background: #ffffff;
-  padding-top: 1rem;
-  padding-bottom: 1rem; }
-
-.after-footer {
-  background: #242424 !important;
-  height: 68px; }
-
-.container.addon-fix-to-bottom {
-  position: relative !important;
-  margin: 0 inherit;
-  flex-grow: 1;
-  flex-direction: column; }
-
-.black-opacity-70 {
-  background-color: #000;
-  opacity: 0.7; }
-
-section {
-  position: relative; }
-
 .m-none {
   margin: 0; }
 
@@ -6597,32 +6555,27 @@ section {
   vertical-align: text-top;
   box-sizing: content-box; }
 
-/*
+/* */
 .post-content p {
-	margin-bottom: 15px;
-}
+  margin-bottom: 15px; }
 
 .post-content h3 {
-    font-size: 26px;
-		margin-bottom: 15px;
-}
+  font-size: 26px;
+  margin-bottom: 15px; }
 
 .post-content h4 {
-    font-size: 20px;
-		margin-bottom: 15px;
-}
+  font-size: 20px;
+  margin-bottom: 15px; }
 
 .post-content ul {
-		margin-left: 30px;
-		margin-bottom: 15px;
-    list-style: disc outside none;
-}
+  margin-left: 30px;
+  margin-bottom: 15px;
+  list-style: disc outside none; }
 
 .post-content ol {
-		margin-left: 30px;
-		margin-bottom: 15px;
-}
-*/
+  margin-left: 30px;
+  margin-bottom: 15px; }
+
 .privacy-policy ul li {
   margin-top: 1em; }
 
@@ -6643,3 +6596,51 @@ ul.share-buttons .sr-only {
   height: 1px;
   width: 1px;
   overflow: hidden; }
+
+.footer img {
+  max-height: 1.75rem; }
+
+.eventdetails li {
+  margin-bottom: 24px;
+  list-style: none; }
+
+.event {
+  background: #242424 !important; }
+  .event.footer {
+    padding: 1rem 1.5rem 1rem !important; }
+
+.get-tickets {
+  width: 329px; }
+
+.get-tickets-mobile {
+  bottom: 0;
+  left: 0;
+  position: fixed;
+  right: 0;
+  z-index: 100;
+  background: #ffffff;
+  padding-top: 1rem;
+  padding-bottom: 1rem; }
+
+.after-footer {
+  background: #242424 !important;
+  height: 68px; }
+
+.container.addon-fix-to-bottom {
+  position: relative !important;
+  margin: 0 inherit;
+  flex-grow: 1;
+  flex-direction: column; }
+
+.black-opacity-70 {
+  background-color: #000;
+  opacity: 0.7; }
+
+section {
+  position: relative; }
+
+.is-black-opaque {
+  background-color: rgba(0, 0, 0, 0.7); }
+
+.has-rounded-corners {
+  border-radius: 10px; }
